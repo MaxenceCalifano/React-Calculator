@@ -14,7 +14,7 @@ body {
   grid-template-areas: "display display display display" "clear clear clear ." ". . . ." ". . . ." ". . . ." ". . equal equal";
   background-color: #63c1a8;
   width: 400px;
-  height: 650px;
+  height: 1vh;
   border-radius: 10px;
   margin: 0 auto;
   margin-top: 20px;
